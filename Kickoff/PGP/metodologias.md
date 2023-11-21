@@ -20,4 +20,4 @@
 
 ## Modelagem
   - Google Planilhas: descrição do problema
-  - Matriz SIPOC: ferramente de visualização de processos
+  - Matriz SIPOC: ferramenta de visualização de processos
